@@ -1,7 +1,7 @@
 # Ép. 12 — Le faux consensus (Manipulation de masse, technique n°3)
 
 ## Description
-Tu crois que tout le monde pense comme toi ? On surestime toujours la part de gens qui sont d'accord avec nous (Ross, Greene, House, 1977). Et quand le groupe a l'air unanime, on suit, ou on se tait.
+Tu crois que tout le monde pense comme toi ? On surestime souvent la part de gens qui sont d'accord avec nous (Ross, Greene, House, 1977). Et quand le groupe a l'air unanime, on suit, ou on se tait.
 Et toi, la dernière fois que tu t'es tu parce que tu te croyais seul, c'était quand ?
 
 ## Hashtags
