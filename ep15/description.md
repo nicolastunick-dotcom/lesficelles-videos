@@ -13,4 +13,5 @@ OUI ou NON : t'as déjà galéré à résilier ? Sources : FTC 25/09/2025 ; loi 
 - Loi n° 2022-1158 du 16/08/2022, art. L. 215-1-1 du Code de la consommation ; décret n° 2023-417 du 31/05/2023 (en vigueur le 01/06/2023).
 - Règlement (UE) 2022/2065 (DSA), art. 25.
 - Harry Brignull, darkpatterns.org (2010), aujourd'hui deceptive.design.
-- Photos : Wikimedia Commons (crédits à l'écran et dans img/CREDITS.md).
+- Photos (Wikimedia Commons) : camionnette Amazon Prime, Tony Webster, CC BY 2.0 ; siège de la FTC, ajay_suresh, CC BY 2.0 ; Harry Brignull 2010, Rob Douglas, CC BY-SA 2.0 ; hémicycle de l'Assemblée nationale, Sunala, CC BY-SA 3.0 ; Berlaymont, Andersen Pecorone, CC BY 2.0.
+- Maquettes d'interface : originales, aucune capture de site réel. Aucun plan IA.
