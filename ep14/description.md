@@ -1,9 +1,10 @@
 # Ép. 14 — La bulle algorithmique
 
 ## Description (Instagram / YouTube / TikTok)
-Bruxelles accuse TikTok : ton fil serait addictif. Mais ton fil, c'est toi qui le choisis ? 🫧
+Bruxelles accuse TikTok : ton fil serait addictif (conclusion préliminaire de la Commission, 06/02/2026). Mais ton fil, c'est toi qui le choisis ? 🫧
 Épisode 5 de « Manipulation de masse » : la bulle algorithmique.
 OUI ou NON en commentaire 👇
+Photos : Andersen Pecorone (CC BY 2.0), Knight Foundation (CC BY-SA 2.0), Wikimedia Commons. Plans « illustration IA » générés avec ElevenLabs.
 
 #bullealgorithmique #tiktok #algorithme #reseauxsociaux #espritcritique #manipulation #lesficelles
 
