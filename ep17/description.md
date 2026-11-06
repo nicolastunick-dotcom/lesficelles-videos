@@ -1,10 +1,10 @@
-# Ép. 17 — Fabriquer le doute (le tabac)
+# Ép. 17 — Fabriquer le doute (manipulation de masse, 8/10)
 
 **Description**
-Pendant des décennies, les cigarettiers ont fait douter le public. En 2006, un tribunal américain les a jugés responsables de tromperie. On t'a déjà vendu un doute ?
+Fabriquer le doute : quand les preuves sont contre toi, tu inventes une « controverse ». Exemple réel : en 2006, un tribunal américain a jugé les cigarettiers responsables d'avoir trompé le public. On t'a déjà vendu un doute ?
 
 **Hashtags**
-#manipulation #tabac #desinformation #espritcritique #decryptage
+#manipulation #fabriquerledoute #desinformation #espritcritique #decryptage
 
 **Premier commentaire (OUI/NON)**
 OUI ou NON : on t'a déjà vendu un doute ? 👇
