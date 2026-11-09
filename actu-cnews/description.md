@@ -1,6 +1,6 @@
 # Actu — Pétition « Supprimer CNews » (sortie mardi 10/11/2026)
 
-**Titre** : Un million de signatures, et alors ?
+**Titre** : Une signature n'est pas un sondage
 
 **Description**
 Plus d'un million de signatures contre CNews sur le site de l'Assemblée (capture du 09/11). Mais une signature n'est pas un sondage. Et seule l'Arcom peut sanctionner une chaîne. Regarde surtout les titres : même chaîne, deux cadrages.
