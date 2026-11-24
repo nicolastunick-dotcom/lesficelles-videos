@@ -1,15 +1,15 @@
 # Ép. 30 « Ne pas se laisser diviser » (arc « Reprendre la main », coup 10/10)
 
 **Titre**
-Diviser pour régner : pourquoi chaque camp a besoin de l'autre
+Diviser pour régner : pourquoi chaque camp se définit contre l'autre
 
 **Titre YouTube (≤ 100 caractères)**
-Diviser pour régner : pourquoi chaque camp politique a besoin de l'autre pour exister (coup 10/10)
+Diviser pour régner : pourquoi chaque camp politique se définit contre l'autre (coup 10/10)
 
 **Description (titre + description + sources + hashtags, à coller telle quelle)**
-Diviser pour régner : pourquoi chaque camp a besoin de l'autre
+Diviser pour régner : pourquoi chaque camp se définit contre l'autre
 
-Le mot « parti » vient d'un verbe qui voulait dire partager, diviser. Un parti te demande de prendre parti, et chaque camp se définit en partie contre l'autre. Aux États-Unis, une étude montre que chaque camp croit qu'il y a presque deux fois plus d'extrêmes en face qu'il n'y en a. Au Royaume-Uni, une expérience a montré que des mails qui visent le camp d'en face font donner plus. En France, Noël sert souvent de terrain : en 2017, Marine Le Pen défend les crèches, Jean-Luc Mélenchon répond « Fichez-nous la paix avec la religion ». Mais il arrive aussi qu'on s'accorde : le 13 octobre, l'Assemblée a adopté à l'unanimité des votants la loi contre les violences sexistes et sexuelles. Sun Tzu l'écrivait déjà : quand l'ennemi est uni, divise-le. Pas forcément un plan, mais l'effet est le même. Coup 10/10.
+Le mot « parti » vient d'un verbe qui voulait dire partager, diviser. Un parti te demande de prendre parti, et chaque camp se définit en partie contre l'autre. Aux États-Unis, une étude montre que chaque camp croit qu'il y a presque deux fois plus d'extrêmes en face qu'il n'y en a. Au Royaume-Uni, une expérience a montré que des mails qui visent le camp d'en face font donner plus. En France, Noël sert souvent de terrain : en 2017, Marine Le Pen défend les crèches, Jean-Luc Mélenchon répond « Fichez-nous la paix avec la religion ». Mais il arrive aussi qu'on s'accorde : le 13 octobre, l'Assemblée a adopté à l'unanimité des votants la loi contre les violences sexistes et sexuelles. L'Art de la guerre de Sun Tzu disait déjà : quand l'ennemi est uni, divise-le. Pas forcément un plan, mais l'effet est le même. Coup 10/10.
 
 Sources :
 1. More in Common, « The Perception Gap: How False Impressions Are Pulling Americans Apart », juin 2019 (États-Unis ; « extrême » défini par chaque camp)
